@@ -196,7 +196,7 @@
 						<h2>About Me</h2>
 						<div class="row">
 							<div class="col-sm-3">
-								<img src="images\mks.png" alt="man" class="img-responsive section-img">
+								<img src="images\front.png" alt="man" class="img-responsive section-img">
 							</div> <!-- end .col-sm-3 -->
 							<div class="col-sm-9">
 								<h3 class="small-margin-bottom">Mohammad Kashif Siddiqui</h3>
