@@ -184,7 +184,7 @@
 								<p class="button-row"><a href="#section8" class="button solid-button white">Hire Me Now</a><a href="images/Resume_MKS.pdf" target="_blank" class="button solid-button purple">Download CV</a></p>
 							</div> <!-- end .col-sm-7 -->
 							<div class="col-sm-5 vertical-center">
-								<img src="images\focus.jpg" alt="frontImage" class="img-responsive section-img">
+								<img src="images\focus.png" alt="frontImage" class="img-responsive section-img">
 							</div> <!-- end .col-sm-5 -->
 						</div> <!-- end .row -->
 					</div> <!-- end .container -->
